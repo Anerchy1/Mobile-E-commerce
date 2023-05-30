@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Mobile-E-commerce",
+    "slug": "Mobile-E-commerce"
+  }
+}
